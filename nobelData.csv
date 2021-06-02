@@ -1,0 +1,239 @@
+Year,Category,Birth Country,Organization Name
+2000,Chemistry,USA,University of California
+2000,Chemistry,New Zealand,University of Pennsylvania
+2000,Chemistry,Japan,University of Tsukuba
+2000,Economics,USA,University of Chicago
+2000,Economics,USA,University of California
+2000,Literature,China,
+2000,Medicine,Sweden,Göteborg University
+2000,Medicine,USA,Rockefeller University
+2000,Medicine,Austria,Columbia University
+2000,Peace,Korea (South Korea),
+2000,Physics,Union of Soviet Socialist Republics (Belarus),A.F. Ioffe Physico-Technical Institute
+2000,Physics,Germany,University of California
+2000,Physics,USA,Texas Instruments
+2001,Chemistry,USA,
+2001,Chemistry,Japan,Nagoya University
+2001,Chemistry,USA,The Scripps Research Institute
+2001,Economics,USA,University of California
+2001,Economics,USA,Stanford University
+2001,Economics,USA,Columbia University
+2001,Literature,Trinidad,
+2001,Medicine,USA,Fred Hutchinson Cancer Research Center
+2001,Medicine,UK,Imperial Cancer Research Fund
+2001,Medicine,UK,Imperial Cancer Research Fund
+2001,Peace,,
+2001,Peace,Gold Coast (Ghana),
+2001,Physics,USA,"University of Colorado, JILA"
+2001,Physics,West Germany (Germany),Massachusetts Institute of Technology (MIT)
+2001,Physics,USA,"University of Colorado, JILA"
+2002,Chemistry,USA,Virginia Commonwealth University
+2002,Chemistry,Japan,Shimadzu Corp.
+2002,Chemistry,Switzerland,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology)
+2002,Chemistry,Switzerland,The Scripps Research Institute
+2002,Economics,Israel,Princeton University
+2002,Economics,USA,George Mason University
+2002,Literature,Hungary,
+2002,Medicine,South Africa,The Molecular Sciences Institute
+2002,Medicine,USA,Massachusetts Institute of Technology (MIT)
+2002,Medicine,UK,The Wellcome Trust Sanger Institute
+2002,Peace,USA,
+2002,Physics,USA,University of Pennsylvania
+2002,Physics,Japan,University of Tokyo
+2002,Physics,Italy,Associated Universities Inc.
+2003,Chemistry,USA,Johns Hopkins University School of Medicine
+2003,Chemistry,USA,Rockefeller University
+2003,Chemistry,USA,Howard Hughes Medical Institute
+2003,Economics,USA,New York University
+2003,Economics,UK,University of California
+2003,Literature,South Africa,
+2003,Medicine,USA,University of Illinois
+2003,Medicine,UK,"University of Nottingham, School of Physics and Astronomy"
+2003,Peace,Iran,
+2003,Physics,Union of Soviet Socialist Republics (Russia),Argonne National Laboratory
+2003,Physics,Russia,P.N. Lebedev Physical Institute
+2003,Physics,UK,University of Illinois
+2004,Chemistry,British Protectorate of Palestine (Israel),Technion - Israel Institute of Technology
+2004,Chemistry,Hungary,Technion - Israel Institute of Technology
+2004,Chemistry,USA,University of California
+2004,Economics,Norway,Carnegie Mellon University
+2004,Economics,Norway,University of California
+2004,Economics,USA,Arizona State University
+2004,Economics,USA,Federal Reserve Bank of Minneapolis
+2004,Literature,Austria,
+2004,Medicine,USA,Columbia University
+2004,Medicine,USA,Fred Hutchinson Cancer Research Center
+2004,Peace,Kenya,
+2004,Physics,USA,"University of California, Kavli Institute for Theoretical Physics"
+2004,Physics,USA,California Institute of Technology (Caltech)
+2004,Physics,USA,Massachusetts Institute of Technology (MIT)
+2005,Chemistry,Belgium,Institut Français du Pétrole
+2005,Chemistry,USA,California Institute of Technology (Caltech)
+2005,Chemistry,USA,Massachusetts Institute of Technology (MIT)
+2005,Economics,Germany,"University of Jerusalem, Center for RationalityHebrew"
+2005,Economics,USA,"University of Maryland, Department of Economics and School of Public Policy"
+2005,Literature,UK,
+2005,Medicine,Australia,"NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre"
+2005,Medicine,Australia,University of Western Australia
+2005,Medicine,Australia,
+2005,Peace,,
+2005,Peace,Egypt,
+2005,Physics,USA,Harvard University
+2005,Physics,USA,"University of Colorado, JILA"
+2005,Physics,USA,National Institute of Standards and Technology
+2005,Physics,Germany,Max-Planck-Institut für Quantenoptik
+2005,Physics,Germany,Ludwig-Maximilians- Universität
+2006,Chemistry,USA,Stanford University
+2006,Economics,USA,Columbia University
+2006,Literature,Turkey,
+2006,Medicine,USA,Stanford University School of Medicine
+2006,Medicine,USA,University of Massachusetts Medical School
+2006,Peace,British India (Bangladesh),
+2006,Peace,,
+2006,Physics,USA,NASA Goddard Space Flight Center
+2006,Physics,USA,University of California
+2007,Chemistry,Germany,Fritz-Haber-Institut der Max-Planck-Gesellschaft
+2007,Economics,Russia,University of Minnesota
+2007,Economics,USA,Institute for Advanced Study
+2007,Economics,USA,University of Chicago
+2007,Literature,Persia (Iran),
+2007,Medicine,Italy,University of Utah
+2007,Medicine,Italy,Howard Hughes Medical Institute
+2007,Medicine,UK,Cardiff University
+2007,Medicine,UK,University of North Carolina
+2007,Peace,,
+2007,Peace,USA,
+2007,Physics,France,Universit&eacute; Paris-Sud
+2007,Physics,France,Unit&eacute; Mixte de Physique CNRS/THALES
+2007,Physics,Czechoslovakia (Czech Republic),Forschungszentrum J&uuml;lich
+2008,Chemistry,Japan,Marine Biological Laboratory (MBL)
+2008,Chemistry,Japan,Boston University Medical School
+2008,Chemistry,USA,Columbia University
+2008,Chemistry,USA,University of California
+2008,Chemistry,USA,Howard Hughes Medical Institute
+2008,Economics,USA,Princeton University
+2008,Literature,France,
+2008,Medicine,Germany,German Cancer Research Center
+2008,Medicine,France,"Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur"
+2008,Medicine,France,World Foundation for AIDS Research and Prevention
+2008,Peace,Finland,
+2008,Physics,Japan,"Enrico Fermi Institute, University of Chicago"
+2008,Physics,Japan,High Energy Accelerator Research Organization (KEK)
+2008,Physics,Japan,Kyoto Sangyo University
+2008,Physics,Japan,"Yukawa Institute for Theoretical Physics (YITP), Kyoto University"
+2009,Chemistry,India,MRC Laboratory of Molecular Biology
+2009,Chemistry,USA,Yale University
+2009,Chemistry,USA,Howard Hughes Medical Institute
+2009,Chemistry,Israel,Weizmann Institute of Science
+2009,Economics,USA,Indiana University
+2009,Economics,USA,Arizona State University
+2009,Economics,USA,University of California
+2009,Literature,Romania,
+2009,Medicine,Australia,University of California
+2009,Medicine,USA,Johns Hopkins University School of Medicine
+2009,Medicine,UK,Harvard Medical School
+2009,Medicine,UK,Massachusetts General Hospital
+2009,Medicine,UK,Howard Hughes Medical Institute
+2009,Peace,USA,
+2009,Physics,China,Standard Telecommunication Laboratories
+2009,Physics,China,Chinese University of Hong Kong
+2009,Physics,Canada,Bell Laboratories
+2009,Physics,USA,Bell Laboratories
+2010,Chemistry,USA,University of Delaware
+2010,Chemistry,China,Purdue University
+2010,Chemistry,Japan,Hokkaido University
+2010,Economics,USA,Massachusetts Institute of Technology (MIT)
+2010,Economics,USA,Northwestern University
+2010,Economics,USA,Aarhus University
+2010,Economics,Cyprus,London School of Economics and Political Science
+2010,Literature,Peru,
+2010,Medicine,UK,University of Cambridge
+2010,Peace,China,
+2010,Physics,Russia,University of Manchester
+2010,Physics,Russia,University of Manchester
+2011,Chemistry,Israel,Technion - Israel Institute of Technology
+2011,Economics,USA,New York University
+2011,Economics,USA,Princeton University
+2011,Literature,Sweden,
+2011,Medicine,USA,University of Texas Southwestern Medical Center at Dallas
+2011,Medicine,USA,The Scripps Research Institute
+2011,Medicine,Luxembourg,University of Strasbourg
+2011,Medicine,Canada,Rockefeller University
+2011,Peace,Liberia,
+2011,Peace,Liberia,
+2011,Peace,Yemen,
+2011,Physics,USA,Lawrence Berkeley National Laboratory
+2011,Physics,USA,University of California
+2011,Physics,USA,Australian National University
+2011,Physics,USA,Johns Hopkins University
+2011,Physics,USA,Space Telescope Science Institute
+2012,Chemistry,USA,Howard Hughes Medical Institute
+2012,Chemistry,USA,Duke University Medical Center
+2012,Chemistry,USA,Stanford University School of Medicine
+2012,Economics,USA,Harvard University
+2012,Economics,USA,Harvard Business School
+2012,Economics,USA,University of California
+2012,Literature,China,
+2012,Medicine,UK,Gurdon Institute
+2012,Medicine,Japan,Kyoto University
+2012,Medicine,Japan,Gladstone Institutes
+2012,Peace,,
+2012,Physics,Morocco,Collège de France
+2012,Physics,Morocco,École Normale Supérieure
+2012,Physics,USA,National Institute of Standards and Technology
+2012,Physics,USA,University of Colorado
+2013,Chemistry,Austria,Université de Strasbourg
+2013,Chemistry,Austria,Harvard University
+2013,Chemistry,South Africa,Stanford University School of Medicine
+2013,Chemistry,Israel,University of Southern California
+2013,Economics,USA,University of Chicago
+2013,Economics,USA,University of Chicago
+2013,Economics,USA,Yale University
+2013,Literature,Canada,
+2013,Medicine,USA,Yale University
+2013,Medicine,USA,University of California
+2013,Medicine,USA,Howard Hughes Medical Institute
+2013,Medicine,Germany,Stanford University
+2013,Medicine,Germany,Howard Hughes Medical Institute
+2013,Peace,,
+2013,Physics,Belgium,Université Libre de Bruxelles
+2013,Physics,UK,University of Edinburgh
+2014,Chemistry,USA,"Janelia Research Campus, Howard Hughes Medical Institute"
+2014,Chemistry,Romania,Max Planck Institute for Biophysical Chemistry
+2014,Chemistry,Romania,German Cancer Research Center
+2014,Chemistry,USA,Stanford University
+2014,Economics,France,Toulouse School of Economics (TSE)
+2014,Literature,France,
+2014,Medicine,USA,University College
+2014,Medicine,Norway,Norwegian University of Science and Technology (NTNU)
+2014,Medicine,Norway,Norwegian University of Science and Technology (NTNU)
+2014,Peace,India,
+2014,Peace,Pakistan,
+2014,Physics,Japan,Meijo University
+2014,Physics,Japan,Nagoya University
+2014,Physics,Japan,Nagoya University
+2014,Physics,Japan,University of California
+2015,Chemistry,Sweden,Francis Crick Institute
+2015,Chemistry,Sweden,Clare Hall Laboratory
+2015,Chemistry,USA,Howard Hughes Medical Institute
+2015,Chemistry,USA,Duke University School of Medicine
+2015,Chemistry,Turkey,University of North Carolina
+2015,Economics,UK,Princeton University
+2015,Literature,Ukraine,
+2015,Medicine,Ireland,Drew University
+2015,Medicine,Japan,Kitasato University
+2015,Medicine,China,China Academy of Traditional Chinese Medicine
+2015,Peace,,
+2015,Physics,Japan,University of Tokyo
+2015,Physics,Canada,Queen's University
+2016,Chemistry,France,University of Strasbourg
+2016,Chemistry,UK,Northwestern University
+2016,Chemistry,Netherlands,University of Groningen
+2016,Economics,UK,Harvard University
+2016,Economics,Finland,Massachusetts Institute of Technology (MIT)
+2016,Literature,USA,
+2016,Medicine,Japan,Tokyo Institute of Technology
+2016,Peace,Colombia,
+2016,Physics,UK,University of Washington
+2016,Physics,UK,Princeton University
+2016,Physics,UK,Brown University
